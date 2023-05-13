@@ -1,0 +1,24 @@
+  152  copilot_git-assist could you remove all node_modules under my-cli/node_modules from my staged
+  153  copilot_git-assist could you add a standard .gitignore for a node typscript project
+  154  copilot_what-the-shell add a .gitignore that would be relevant for a typescript project
+  155  copilot_what-the-shell could you remove the my-cli directory
+  156  copilot_what-the-shell are there files that should not be in my git
+  157  copilot_git-assist what files are you currently tracking
+  158  copilot_git-assist remove all history of the my-cli directory
+  159  copilot_git-assist I want to delete all git history for everything except LICENSE README.md
+  160  copilot_git-assist could you do a reset hard
+  161  copilot_what-the-shell add a .gitignore that would be relevant for a node typescript project
+  162  copilot_git-assist what files are you currently tracking
+  163  copilot_what-the-shell could you add a readme mentioning this project is using solely chatgpt to write code and setup the project
+  164  copilot_what-the-shell i could use some help setting up the chatgpt api
+  165  copilot_what-the-shell where is the file that has my current shell history
+  166  copilot_what-the-shell lets create a directory to store our conversations
+  167  copilot_what-the-shell lets add a file in conversations to store our current chat
+: 1683939430:0;copilot_what-the-shell could we add direnv to this project
+: 1683939482:0;copilot_what-the-shell create a env file that sets env var HISTFILE to be ./.conversations/chat-$(date +%Y-%m-%d).txt
+: 1683939568:0;copilot_what-the-shell add a alias to our env file that can show us todays conversation in ./.conversations/chat-$(date +%Y-%m-%d).txt
+: 1683939636:0;copilot_what-the-shell could we you source the current env file
+: 1683939664:0;copilot_git-assist could you show me the current diff
+: 1683939717:0;copilot_what-the-shell could you show me today-chat
+: 1683939780:0;copilot_what-the-shell could you show me the contents of the files in .conversations
+: 1683939842:0;copilot_git-assist add all of the current files and make a commit using conventional commit format

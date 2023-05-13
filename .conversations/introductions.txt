@@ -1,0 +1,72 @@
+: 1683932318:0;cd dev/
+: 1683932400:0;mkdir chat-dev
+: 1683932405:0;cd chat-dev/
+: 1683932406:0;npm i @githubnext/github-copilot-cli
+: 1683935337:0;npm i @githubnext/github-copilot-cli
+: 1683935513:0;gh? I'd love to create a new repo\
+I'd love to create a new repo
+: 1683935527:0;gh?
+: 1683935562:0;github-copilot-cli auth
+: 1683935599:0;npm install -g @githubnext/github-copilot-cli
+: 1683935637:0;github-copilot-cli auth
+: 1683935681:0;cd ~
+: 1683935707:0;vi ~/.config/zsh/.zshrc
+: 1683935780:0;copilot_gh-assist create a new repo
+: 1683935825:0;cd ..
+: 1683935867:0;copilot_gh-assist create a new repo from scratch called the-conversation
+: 1683935919:0;copilot_gh-assist create a new repo from scratch called the-conversation and make it public
+: 1683935986:0;copilot_gh-assist could you clone my repo called the-conversation locally
+: 1683936015:0;copilot_what-the-shell could you change to the directory called the-conversation
+: 1683936101:0;copilot_git-assist could you setup the current git as an open source project under the MIT license
+: 1683936125:0;copilot_what-the-shell could you setup the current git as an open source project under the MIT license
+: 1683936215:0;copilot_what-the-shell could you create a readme for an open source project called the-conversation
+: 1683936292:0;copilot_gh-assist could you setup the remote for my current git
+: 1683936332:0;copilot_git-assist push the current changes upstream
+: 1683936370:0;copilot_git-assist could you setup some standard githooks
+: 1683936432:0;copilot_gh-assist open my current repo in the webview
+: 1683936493:0;copilot_what-the-shell is there a way to see command input history for this shell
+: 1683936539:0;copilot_what-the-shell could you output the current shell history to a text file
+: 1683936603:0;copilot_what-the-shell could we create a hook that after the command input?
+: 1683936606:0;copilot_what-the-shell could we create a hook that after the command input
+: 1683936710:0;copilot_what-the-shell veiw the sandard out of previously executed comands
+: 1683936759:0;copilot_what-the-shell could you increase the max line count for history?
+: 1683936761:0;copilot_what-the-shell could you increase the max line count for history
+: 1683936829:0;copilot_what-the-shell can shell history be redirected to a different file
+: 1683936898:0;copilot_what-the-shell id like to automate redirecting history to a shell file
+: 1683937003:0;copilot_what-the-shell how can i configure shell history
+: 1683937109:0;copilot_what-the-shell i'd like to start a project building an interactive CLI tool\
+\
+'
+: 1683937290:0;copilot_what-the-shell create a shell script for copying history to a target file
+: 1683937361:0;copilot_what-the-shell switch my project to use yarn instead of npm
+: 1683937600:0;copilot_what-the-shell create a directory at the git project root to store text files of our conversations
+: 1683937694:0;copilot_what-the-shell add the current shell history to the .conversations directory and make sure you dont overwrite a current file
+: 1683937777:0;copilot_what-the-shell can you navigate to the git project root
+: 1683937810:0;copilot_what-the-shell are there any files that are currently not in the git
+: 1683937857:0;copilot_git-assist can we add all untracted files
+: 1683937943:0;copilot_what-the-shell can you remove the files that are under the .convervation directory
+: 1683937999:0;copilot_what-the-shell can you remove the files that are under the my-cli/.convervation directory
+: 1683938027:0;copilot_git-assist what is my current git status
+: 1683938085:0;copilot_git-assist could you remove all node_modules from my staged
+: 1683938114:0;copilot_git-assist could you remove all node_modules under my-cli/node_modules from my staged
+: 1683938166:0;copilot_git-assist could you add a standard .gitignore for a node typscript project
+: 1683938197:0;copilot_what-the-shell add a .gitignore that would be relevant for a typescript project
+: 1683938239:0;copilot_what-the-shell could you remove the my-cli directory
+: 1683938265:0;copilot_what-the-shell are there files that should not be in my git
+: 1683938294:0;copilot_git-assist what files are you currently tracking
+: 1683938339:0;copilot_git-assist remove all history of the my-cli directory
+: 1683938434:0;copilot_git-assist I want to delete all git history for everything except LICENSE README.md
+: 1683938482:0;copilot_git-assist could you do a reset hard
+: 1683938503:0;copilot_what-the-shell add a .gitignore that would be relevant for a node typescript project
+: 1683938519:0;copilot_git-assist what files are you currently tracking
+: 1683938605:0;copilot_what-the-shell could you add a readme mentioning this project is using solely chatgpt to write code and setup the project
+: 1683938649:0;copilot_what-the-shell i could use some help setting up the chatgpt api
+: 1683938696:0;copilot_what-the-shell where is the file that has my current shell history
+: 1683938781:0;copilot_what-the-shell lets create a directory to store our conversations
+: 1683938833:0;copilot_what-the-shell lets add a file in conversations to store our current chat
+: 1683938954:0;copilot_what-the-shell create a text file to store todays shell history in our conversation directory
+: 1683939113:0;copilot_what-the-shell could you show me that text file we just created
+: 1683939195:0;copilot_what-the-shell could you show me file chat-2023-05-12.txt
+: 1683939294:0;copilot_what-the-shell how would we set $HISTFILE to be ./.conversations/chat-$(date +%Y-%m-%d).txt
+: 1683939353:0;copilot_what-the-shell how would we set the env var $HISTFILE to be ./.conversations/chat-$(date +%Y-%m-%d).txt
+: 1683939390:0;copilot_what-the-shell how would we set the env var HISTFILE to be ./.conversations/chat-$(date +%Y-%m-%d).txt

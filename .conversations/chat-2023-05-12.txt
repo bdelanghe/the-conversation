@@ -22,3 +22,14 @@
 : 1683939717:0;copilot_what-the-shell could you show me today-chat
 : 1683939780:0;copilot_what-the-shell could you show me the contents of the files in .conversations
 : 1683939842:0;copilot_git-assist add all of the current files and make a commit using conventional commit format
+: 1683939865:0;copilot_git-assist push local changes up
+: 1683939889:0;copilot_what-the-shell show me the current git diff
+: 1683939930:0;copilot_gh-assist open my current repo in the webview
+: 1683940082:0;copilot_what-the-shell could you add the current history to a text file under .conversations and call it introductions
+: 1683940326:0;copilot_what-the-shell I feel like there might me more is my shell history
+: 1683940466:0;copilot_what-the-shell can you copy this file /Users/bobby/.config/zsh/.zsh_history to .conversations/introductions.txt
+: 1683940587:0;copilot_what-the-shell could you remove all lines before 128 in .conversations/introductions.txt
+: 1683940648:0;??
+: 1683940663:0;copilot_what-the-shell could you remove all lines before 128 in '.conversations/introductions.txt'
+: 1683940683:0;copilot_what-the-shell could you remove all lines before 128 in .conversations/introductions.txt
+: 1683940726:0;copilot_what-the-shell could you remove all lines before 128 in .conversations/introductions.txt rembember i use zsh
